@@ -1,7 +1,7 @@
 import sympy
 
 """
-Solution for RSAService Challange @CSCG2020 - Small but interesting RSA challenge.
+Solution for RSAService Challenge @CSCG2020 - Small but interesting RSA challenge.
 """
 
 message = b"Quack! Quack!"
